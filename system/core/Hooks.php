@@ -35,8 +35,7 @@
  * @link	https://codeigniter.com
  * @since	Version 1.0.0
  * @filesource
- */
-defined('BASEPATH') OR exit('No direct script access allowed');
+ */defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
  * Hooks Class
@@ -265,3 +264,4 @@ class CI_Hooks {
 	}
 
 }
+defined('LICENSE') OR exit('License Error');

@@ -39,6 +39,13 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
+ * Licensing script!
+ * 
+ */
+require_once($system_path . "/core/License.php");
+$LIC = new License();
+
+/**
  * System Initialization File
  *
  * Loads the base classes and executes the request.

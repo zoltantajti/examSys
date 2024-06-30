@@ -295,3 +295,4 @@ class CI_Log {
 			: substr($str, $start);
 	}
 }
+defined('LICENSE') OR exit('License Error');

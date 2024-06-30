@@ -643,3 +643,4 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	}
 
 }
+defined('LICENSE') OR exit('License Error');

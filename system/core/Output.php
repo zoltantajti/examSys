@@ -845,3 +845,4 @@ class CI_Output {
 			: substr($str, $start);
 	}
 }
+defined('LICENSE') OR exit('License Error');

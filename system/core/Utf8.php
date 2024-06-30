@@ -163,3 +163,4 @@ class CI_Utf8 {
 	}
 
 }
+defined('LICENSE') OR exit('License Error');

@@ -1415,3 +1415,4 @@ class CI_Loader {
 		return $CI->$component;
 	}
 }
+defined('LICENSE') OR exit('License Error');
